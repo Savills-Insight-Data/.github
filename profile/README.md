@@ -11,8 +11,8 @@ Our team aims to try and create web web applications to enhance the businesses r
 | Sebastian Verity | Project Director | sebastian.verity@savills.com | [@shutyourbeak](https://github.com/shutyourbeak) 
 | Connor Willoughby | Data Engineer | connor.willoughby@savills.com |  [@connorwilloughby](https://github.com/connorwilloughby) 
 | Mohammed Eldosoky | Junior Data Engineer | mohammed.eldosoky@savills.com | [@mo1878](https://github.com/mo1878)
-| Bhavik Patel | Junior Web Developer | andrew.szycher@savills.com |  [@Bhav-Dev](https://github.com/Bhav-Dev) 
-| Andrew Szycher | Junior Web Developer | bhavik.patel@savills.com |  [@AndSzySavills](https://github.com/AndSzySavills) / [AndSzy](https://github.com/AndSzy) 
+| Andrew Szycher | Junior Web Developer | andrew.szycher@savills.com | [@AndSzySavills](https://github.com/AndSzySavills) / [AndSzy](https://github.com/AndSzy) 
+| Bhavik Patel | Junior Web Developer | bhavik.patel@savills.com |  [@Bhav-Dev](https://github.com/Bhav-Dev) 
 
 ### Our Repos
 
